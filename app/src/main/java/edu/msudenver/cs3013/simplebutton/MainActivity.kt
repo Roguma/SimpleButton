@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
             }
             else{
                 text.setBackgroundColor(Color.rgb(255,0,0))
-                flag=true
             }
         }
     }
