@@ -31,4 +31,8 @@
         app:layout_constraintTop_toBottomOf="@+id/pbtext"
         android:text="PUSH ME"/>
 
+
+    <TextView style="@style/HelloStyle" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
